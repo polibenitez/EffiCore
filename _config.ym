@@ -1,3 +1,7 @@
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: "Automatización de Procesos"
+baseurl: "" # Dejar vacío para GitHub Pages
+url: "https://tuusuario.github.io/nombre-repositorio"
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
